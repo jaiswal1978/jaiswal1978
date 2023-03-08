@@ -66,7 +66,7 @@
 
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:300px) {
   .block-900-full > .column {
     -ms-flex: 0 0 100%;
     -webkit-box-flex: 0;
